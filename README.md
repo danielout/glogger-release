@@ -18,6 +18,8 @@ I apologize for bad UI/UX/programming - I'm a game designer by trade, not a soft
 
 ## Initial Setup
 
+Instructions available in short (<2 minutes) video form here. Featuring Cheb! https://www.youtube.com/watch?v=9BhzbM92rv4
+
 1. Go to your VIP settings, export your character and storage JSONs. (If you've got alts, it is helpful to do them as well!)
 <img width="1344" height="1170" alt="image" src="https://github.com/user-attachments/assets/5b164e75-6b18-4d7e-b195-3e98108f8de9" />
 
