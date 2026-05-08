@@ -1,4 +1,13 @@
 # Glogger
+
+## New Home!
+
+Glogger has gone opens ource and thus you can find the full repo here: https://github.com/danielout/glogger/ - new releases will be found there (if you're using glogger, the built-in updater should handle the change seamlessly)
+
+Thanks!
+
+---
+
 The Gorgon Log parsing app by Zenith of Dreva.
 
 - Thanks Reyetta, Wogan, Kaeus, Fidge, TwinkleofToes, DisasterGaymer, Cakedydidooda, Lucyfeir and Deradon! Feedback and early testing was super helpful in getting Glogger to where it is now. :D
